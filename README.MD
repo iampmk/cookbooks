@@ -1,1 +1,1 @@
-#. Wild Ride of Cuisines
+# Wild Ride of Cuisines
